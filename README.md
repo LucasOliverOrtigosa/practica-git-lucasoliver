@@ -1,6 +1,10 @@
-# Practica de Git ALUMNO A
+# \# Proyecto Alumno A
 
-Repositorio de practicas del modulo de Desarrollo de Aplicaciones Web.
+# 
 
-Autor: Lucas
+# Repositorio de prácticas del módulo de Desarrollo de Aplicaciones Web.
+
+# 
+
+# Autor: Lucas
 
