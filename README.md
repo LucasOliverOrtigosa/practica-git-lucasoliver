@@ -1,5 +1,5 @@
-# Pr ctica de Git 
+# Practica de Git A
 
-Repositorio de pr cticas del m¢dulo de Desarrollo de Aplicaciones Web.
+Repositorio de practicas del modulo de Desarrollo de Aplicaciones Web.
 
-Autor: Lucas
+Autor: Lucas A
